@@ -126,8 +126,8 @@
         <fabric8.zjsonpatch.version>0.3.0</fabric8.zjsonpatch.version>
         <fasterxml.jackson-core.version>2.16.2</fasterxml.jackson-core.version>
         <fasterxml.jackson-databind.version>2.16.2</fasterxml.jackson-databind.version>
-        <fasterxml.jackson-dataformat.version>2.16.2</fasterxml.jackson-dataformat.version>
-        <fasterxml.jackson-annotations.version>2.16.2</fasterxml.jackson-annotations.version>
+        <fasterxml.jackson-dataformat.version>2.17.2</fasterxml.jackson-dataformat.version>
+        <fasterxml.jackson-annotations.version>2.17.2</fasterxml.jackson-annotations.version>
         <fasterxml.jackson-datatype.version>2.16.2</fasterxml.jackson-datatype.version>
         <fasterxml.jackson-jaxrs.version>2.16.2</fasterxml.jackson-jaxrs.version>
         <vertx.version>4.5.10</vertx.version>
