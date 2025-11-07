@@ -146,7 +146,7 @@
         <strimzi-oauth.version>0.15.0</strimzi-oauth.version>
         <netty.version>4.1.111.Final</netty.version>
         <micrometer.version>1.12.3</micrometer.version>
-        <jayway-jsonpath.version>2.9.0</jayway-jsonpath.version>
+        <jayway-jsonpath.version>2.10.0</jayway-jsonpath.version>
         <registry.version>1.3.2.Final</registry.version>
         <commons-codec.version>1.13</commons-codec.version>
 
@@ -166,7 +166,7 @@
         <kroxylicious-testing.version>0.9.0</kroxylicious-testing.version>
         <kindcontainer.version>1.4.7</kindcontainer.version>
         <junit4.version>4.13.2</junit4.version>
-        <skodjob.test-frame.version>0.6.1</skodjob.test-frame.version>
+        <skodjob.test-frame.version>0.9.0</skodjob.test-frame.version>
         <skodjob-doc.version>0.3.0</skodjob-doc.version>
 
         <!-- properties to skip surefire tests during failsafe execution -->
